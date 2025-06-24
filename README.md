@@ -25,7 +25,6 @@ QR Alimy is a privacy-first vehicle notification service that allows people to c
  /
 ├── index.html
 ├── style.css
-├── /assets
 │ ├── qr-code-example.png
 │ ├── video-top.jpg
 │ ├── video-bottom.jpg
